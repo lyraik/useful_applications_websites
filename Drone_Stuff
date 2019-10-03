@@ -1,0 +1,4 @@
+Driver:
+	Impulse RC Driverfixer -> Fuer DFU Treiber
+	zadig
+	liftoff reinstall hid driver
